@@ -17,18 +17,6 @@ Welcome to my GitHub project portfolio. Below are my major projects.
 
 ---
 
-## 🛠️ Feature Engineering & Data Science
-
-* 🔗 Feature Engineering Assignment
-* 🔗 Python Basics Assignment
-* 🔗 OOPs Assignment
-
----
-
-## 📚 Academic Projects
-
-* 🔗 Data Structure Assignment
-* 🔗 File Exception Handling
 
 ---
 
