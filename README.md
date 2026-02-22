@@ -6,14 +6,18 @@ Welcome to my GitHub project portfolio. Below are my major projects.
 
 ## 🧠 Machine Learning & AI Projects
 
-* 🔗 Anxiety Detection using EEG & GNN
-* 🔗 Custom GPT Implementation
+* - 🔗 [Anxiety Detection](https://github.com/nirbhay-saroha66/Anxiety-detection)
+  - 🔗[Movie Hive](https://github.com/nirbhay-saroha66/MovieRecommendation)
+* 🔗[ Custom GPT Implementation](https://github.com/nirbhay-saroha66/Custom-GPT)
+* 🔗[Intrusion Detection with GWO and Hybrid feature selection](https://github.com/nirbhay-saroha66/mini_project)
+* 🔗[WheelsWorth](https://github.com/nirbhay-saroha66/WheelWorth)
+* 
 
 ---
 
 ## 📊 Data Analytics Projects
 
-* 🔗 Sales Insights Dashboard (Power BI)
+* 🔗 [Sales Power BI Dashboard](https://github.com/nirbhay-saroha66/Sales-Insights)
 
 ---
 
